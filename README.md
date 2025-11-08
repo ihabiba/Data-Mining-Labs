@@ -7,8 +7,8 @@ The work demonstrates hands-on understanding of clustering, anomaly detection, r
 
 ## 📂 Contents Overview
 
-| Topic | Description | Methods / Algorithms | Format |
-|------|-------------|---------------------|--------|
+| Topic | Description | Methods / Algorithms |
+|------|-------------|---------------------|
 | **Clustering** | Grouping unlabeled data based on similarity | K-Means, DBSCAN, Agglomerative Clustering |
 | **Anomaly Detection** | Identifying rare/unusual data patterns | DBSCAN + LOF, Isolation Forest | 
 | **Market Basket Analysis** | Discovering association patterns in transactions | Apriori, Association Rules, Lift & Support |
