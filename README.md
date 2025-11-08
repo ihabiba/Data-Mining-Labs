@@ -9,12 +9,12 @@ The work demonstrates hands-on understanding of clustering, anomaly detection, r
 
 | Topic | Description | Methods / Algorithms | Format |
 |------|-------------|---------------------|--------|
-| **Clustering** | Grouping unlabeled data based on similarity | K-Means, DBSCAN, Agglomerative Clustering | `.ipynb` |
-| **Anomaly Detection** | Identifying rare/unusual data patterns | DBSCAN + LOF, Isolation Forest | `.ipynb / PDF` |
-| **Market Basket Analysis** | Discovering association patterns in transactions | Apriori, Association Rules, Lift & Support | `.ipynb / Word / PDF` |
-| **Recommender Systems** | Personalized product recommendations | Item-based CF, User-based CF, Content-based, Hybrid Model | `.ipynb / PDF` |
-| **Time Series Forecasting** | Predicting future trends | ARIMA, Random Forest, XGBoost, LSTM | `.ipynb / PDF` |
-| **Business Dataset Insights** | Data cleaning, preparation, exploration & KPIs | Retail & Consumer datasets | `.xlsx / .ipynb` |
+| **Clustering** | Grouping unlabeled data based on similarity | K-Means, DBSCAN, Agglomerative Clustering |
+| **Anomaly Detection** | Identifying rare/unusual data patterns | DBSCAN + LOF, Isolation Forest | 
+| **Market Basket Analysis** | Discovering association patterns in transactions | Apriori, Association Rules, Lift & Support |
+| **Recommender Systems** | Personalized product recommendations | Item-based CF, User-based CF, Content-based, Hybrid Model |
+| **Time Series Forecasting** | Predicting future trends | ARIMA, Random Forest, XGBoost, LSTM |
+| **Business Dataset Insights** | Data cleaning, preparation, exploration & KPIs | Retail & Consumer datasets |
 
 ---
 
