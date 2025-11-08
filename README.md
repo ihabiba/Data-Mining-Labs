@@ -40,5 +40,3 @@ The work demonstrates hands-on understanding of clustering, anomaly detection, r
 
 ---
 
-pip install -r requirements.txt
-jupyter notebook
